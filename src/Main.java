@@ -62,7 +62,7 @@ public class Main {
     }//end azucar
 
     /**
-     * Funcion que te devuelve el cambio
+     * Funcion que te devuelve el cambio.
      * @param dinero
      */
     static  void cambio(double dinero){
