@@ -2,7 +2,7 @@ import java.util.Scanner;
 /**
  * Maquina de cafe
  */
-public class Main {
+public class maquina_cafe {
     /**
      * Metodo principal del programa
      *
